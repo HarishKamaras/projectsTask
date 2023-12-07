@@ -112,7 +112,7 @@ const sortedCourseNames = courseNames.slice().sort((a, b) => a.title.localeCompa
 function Course() {
   return (
     <div className="container">
-    <h6 className="courses-heading text-center">Providing <strong>Technologys</strong> </h6>
+    <h2 className="courses-heading text-center">Providing <strong>Technologys</strong> </h2>
 
       <hr className="heading-underline" />
       <div className="row">

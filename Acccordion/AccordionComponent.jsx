@@ -27,10 +27,9 @@ const AccordionComponent = () => {
         >
           <div className="accordion-body">
             <p className='text-dark'>
-              Years of experience providing software testing services for
-              companies of all shapes and sizes. Whether you&rsquo;re looking for QA
-              testing for iOS/Android mobile apps, desktop software, or SaaS
-              (software as a service), we have you covered.
+              
+              We have a team of experienced mentors who can provide guidance and support to students throughout the project.
+              Take our hand, and together we can reach so much further.
             </p>
           </div>
           </div>
@@ -45,7 +44,7 @@ const AccordionComponent = () => {
               aria-expanded="false"
               aria-controls="collapseTwo"
             >
-              What is on demand Testing?
+              Project Reviews and Customization
             </button>
           </h2>
           <div
@@ -56,10 +55,7 @@ const AccordionComponent = () => {
           >
             <div className="accordion-body">
               <p className='text-dark'>
-                On-demand reliability. We&rsquo;re available on-demand, even if you
-                just need 20 hours of testing here and there. Since our testers
-                are located all over the nation, they&rsquo;re more likely to be in
-                sync with your business hours.
+              We offer project reviews to help students ensure that their projects are meeting the requirements of their academic institutions and customize projects to fit your institution's requirements.
               </p>
             </div>
           </div>
@@ -74,7 +70,7 @@ const AccordionComponent = () => {
               aria-expanded="false"
               aria-controls="collapseThree"
             >
-              Are you flexible at software testing services?
+              Affordable and Convenient
             </button>
           </h2>
           <div
@@ -85,13 +81,8 @@ const AccordionComponent = () => {
           >
             <div className="accordion-body">
               <p className='text-dark'>
-                We specialize in everything from manual and automated QA
-                services to API and performance testing. We have straightforward
-                hourly prices and no long-term contracts required. Our testing
-                experts can do anything from writing manual test cases to
-                setting up or maintaining full automation using Appium. We can
-                also set up or boost your current QA process with our software
-                QA consulting services!
+              At AKTech Solutions, we believe that quality Project work should be affordable for everyone. We offer a variety of services at very competitive prices.
+If you are looking for a budget-friendly solution for all your project work needs at your own convenience. Whether you need help with your research or just want someone to do the project for you, we can help in providing the best assignment help services.
               </p>
             </div>
           </div>
@@ -106,7 +97,7 @@ const AccordionComponent = () => {
               aria-expanded="false"
               aria-controls="collapseFour"
             >
-              Real people! Real results!
+              Project satisfaction
             </button>
           </h2>
           <div
@@ -117,11 +108,7 @@ const AccordionComponent = () => {
           >
             <div className="accordion-body">
               <p className='text-dark'>
-                If you &rsquo; d like to hand off builds and get bug reports back
-                without any back-and-forth, no problem. But if you want a
-                dedicated tester to participate in your Agile process and
-                communicate with daily, we&rsquo;ve got you covered there too. Our
-                testers can even join your standups, Jira, and Slack.
+              We offer a satisfaction guarantee, so students can be sure that they are getting the best possible service on time. Thereby you can be assured of your submission.
               </p>
             </div>
           </div>
@@ -136,7 +123,7 @@ const AccordionComponent = () => {
               aria-expanded="false"
               aria-controls="collapseFive"
             >
-              Do you have experience across a vast range of sectors?
+              Flexible payment options
             </button>
           </h2>
           <div
@@ -147,10 +134,7 @@ const AccordionComponent = () => {
           >
             <div className="accordion-body">
               <p className='text-dark'>
-                No matter what industry your software is in, chances are we&rsquo;ve
-                been there. Some of the biggest companies in America have
-                outsourced their software testing services to us. Our enterprise
-                QA portfolio includes everyone from Google to Microsoft.
+              offers various payment options for students to easily purchase their services.
               </p>
             </div>
           </div>
